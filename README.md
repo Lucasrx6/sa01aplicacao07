@@ -10,15 +10,22 @@ Este programa tem a finalidade de resolver a sexta atividade da lista de exercic
 Prints da tela
 Ao executar: 
 
-![Print 1](https://user-images.githubusercontent.com/86980974/215867681-b5313760-d6da-43c6-adc1-0be86452374f.PNG)
+![Print 1](https://user-images.githubusercontent.com/86980974/215869442-0177f0c9-abd2-4bab-9190-92f359b7f85e.PNG)
 
-![print2](https://user-images.githubusercontent.com/86980974/215867693-a3cf0076-acd3-4ff1-8a96-b1a6999a0883.PNG)
+![print2](https://user-images.githubusercontent.com/86980974/215869453-1ae0de31-2523-4509-92b1-71a0cf5ebca7.PNG)
+
+![print3](https://user-images.githubusercontent.com/86980974/215869475-4f8148ce-f974-4aae-af78-907fafe5bbc1.PNG)
+
+![print4](https://user-images.githubusercontent.com/86980974/215869490-f9eb2dbf-5e87-44a1-8718-e8d0838401ba.PNG)
+
+![print5](https://user-images.githubusercontent.com/86980974/215869506-0472d0bd-9913-4b33-a33a-2c0a4c5add6b.PNG)
+
 
 
 Resultado
 
 
-![print3](https://user-images.githubusercontent.com/86980974/215867737-8564c856-0104-4bad-8f52-1fb2502a8f58.PNG)
+![print6](https://user-images.githubusercontent.com/86980974/215869528-70295c0f-f646-446b-980d-2f2a3d75f0af.PNG)
 
 
 ----------------------------------------------------------------------------------
